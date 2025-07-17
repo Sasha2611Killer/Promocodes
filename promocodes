@@ -1,0 +1,14 @@
+{
+    "FREE": {
+        "Promo": "FREE",
+        "Active": true,
+        "AwardType": "Other",
+        "Award": "AddMinutes:100"
+    },
+    "TEST": {
+        "Promo": "TEST",
+        "Active": true,
+        "AwardType": "Other",
+        "Award": "AddMinutes:50"
+    }
+}
