@@ -13,5 +13,10 @@
         "Active": true,
         "AwardType": "AddMinutes",
         "Award": "50"
+    },
+    "Russia2": {
+        "Active": true,
+        "AwardType": "AddMinutes",
+        "Award": "50"
     }
 }
