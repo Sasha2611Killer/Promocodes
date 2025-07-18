@@ -18,5 +18,10 @@
         "Active": true,
         "AwardType": "AddMinutes",
         "Award": "50"
+    },
+    "SybaBratikSybahechka": {
+        "Active": true,
+        "AwardType": "AddMinutes",
+        "Award": "555"
     }
 }
